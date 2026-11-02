@@ -1,0 +1,28 @@
+# Personal data the plugin creates at runtime - never commit
+job-profile.md
+answers.md
+portals.md
+tracker*.json
+tracker*.csv
+applications*.json
+*.xlsx
+facts*.json
+resume-facts*.json
+job-hunt/
+resume.*
+resumes/
+*_Resume_*.pdf
+*_Resume_*.docx
+*.pdf
+*.docx
+
+# OS / editor / runtime
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+__pycache__/
+*.pyc
+node_modules/
+.in_use/
+.env

@@ -1,0 +1,9 @@
+{
+  "name": "job-hunt",
+  "version": "0.2.0",
+  "description": "End-to-end job hunt on LinkedIn, Naukri, Indeed and company career sites: profile from your resume, search, scoring, one-page tailored resumes, applying in your logged-in Chrome (Continue-with-Google on sites you approve), and one tracker - submits only with your approval.",
+  "author": {
+    "name": "Priyank"
+  },
+  "keywords": ["jobs", "resume", "linkedin", "naukri", "indeed", "career portal", "workday", "greenhouse", "job search", "apply"]
+}
